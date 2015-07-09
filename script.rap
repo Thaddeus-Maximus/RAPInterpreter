@@ -1,0 +1,6 @@
+
+console write line hello
+loop forever
+  define text as console read
+  console write text "RAP Heard: "
+  console write line text
